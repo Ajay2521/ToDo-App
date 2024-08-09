@@ -75,8 +75,8 @@ Handles API interactions (fetching, adding, toggling, and deleting todos) and re
 1. **Clone the repository:**
 
     ```
-    git clone https://github.com/yourusername/todo-react-app.git
-    cd todo-react-app
+    git clone https://github.com/Ajay2521/ToDo-App.git
+    cd ToDo-App/react-app
     ```
 
 2. **Install dependencies:**
