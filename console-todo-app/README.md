@@ -22,7 +22,7 @@ This is a simple console-based Todo application built with Python. The applicati
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Ajay2521/ToDo-App.git
-   cd console-todo-app
+   cd ToDo-App/console-todo-app
    ```
 
 2. **Run the application:**
