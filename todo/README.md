@@ -23,14 +23,18 @@ This is a simple Todo application built with Python's FastAPI framework. It incl
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/yourusername/todo-app.git
-    cd todo-app
+    ```
+    git clone https://github.com/Ajay2521/ToDo-App.git
+    cd ToDo-App/todo
     ```
 
 2. To run the FastAPI application:
 
-    ```bash
+    ```
+    python run main.py
+    ```
+    
+    ```
     uvicorn main:app --reload
     ```
 
@@ -65,7 +69,7 @@ ReDoc: http://127.0.0.1:5000/redoc
 To run unit tests for the FastAPI backend:    
 
 ```
-python3 -m unittest -s tests -p '*_test.py'
+python -m unittest -s tests -p '*_test.py'
 ```
 
 Discover and run all unit tests in the app directory that match the pattern *_test.py.
@@ -76,13 +80,13 @@ Discover and run all unit tests in the app directory that match the pattern *_te
 Run tests with coverage:
 
 ```
-python3 -m coverage run -m unittest discover
+python -m coverage run -m unittest discover
 ```
 
 or
 
 ```
-python3 -m coverage run -m unittest discover -s tests -p '*_test.py'
+python -m coverage run -m unittest discover -s tests -p '*_test.py'
 ```
 
 Runs unit tests and collects coverage data.
@@ -90,7 +94,7 @@ Runs unit tests and collects coverage data.
 **Generate a coverage report:**
 
 ```
-python3 -m coverage report
+python -m coverage report
 ```
 
 Displays the coverage report in the terminal.
