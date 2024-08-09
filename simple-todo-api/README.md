@@ -24,8 +24,8 @@ This is a simple Todo application built with Python's FastAPI framework. It incl
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/todo-app.git
-    cd todo-app
+   git clone https://github.com/Ajay2521/ToDo-App.git
+   cd ToDo-App/simple-todo-api
     ```
 
 2. To run the FastAPI application:
