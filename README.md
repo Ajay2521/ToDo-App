@@ -163,3 +163,8 @@ Creates an HTML report of the coverage data. Open `htmlcov/index.html` in a web 
     yarn start
     ```
 
+### Sample Recording
+
+#### Postman
+
+[postman rec.webm](https://github.com/user-attachments/assets/309d5c53-8167-4e46-a862-a2e7bb864af0)
