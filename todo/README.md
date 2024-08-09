@@ -57,9 +57,9 @@ This is a simple Todo application built with Python's FastAPI framework. It incl
 FastTrack Todo uses Swagger UI for API documentation. Access it at:
 
 ```
-Swagger UI: http://127.0.0.1:5000/docs
+Swagger UI: http://127.0.0.1:8000/docs
 
-ReDoc: http://127.0.0.1:5000/redoc
+ReDoc: http://127.0.0.1:8000/redoc
 ```
 
 ### Testing
@@ -102,7 +102,7 @@ Displays the coverage report in the terminal.
 **Generate an HTML coverage report:**
 
 ```
-python3 -m coverage html
+python -m coverage html
 ```
 
 Creates an HTML report of the coverage data. Open `htmlcov/index.html` in a web browser to view it.
