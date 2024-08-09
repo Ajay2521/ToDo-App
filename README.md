@@ -167,4 +167,14 @@ Creates an HTML report of the coverage data. Open `htmlcov/index.html` in a web 
 
 #### Postman
 
-[postman rec.webm](https://github.com/user-attachments/assets/309d5c53-8167-4e46-a862-a2e7bb864af0)
+[postman](https://github.com/user-attachments/assets/309d5c53-8167-4e46-a862-a2e7bb864af0)
+
+#### Swagger
+
+[Swagger](https://github.com/user-attachments/assets/6c984527-b2fc-4641-b14c-0c2e58d2f0d0)
+
+#### UI
+
+[UI.webm](https://github.com/user-attachments/assets/c4b46576-faa3-464b-ada6-997eb4a676c1)
+
+
