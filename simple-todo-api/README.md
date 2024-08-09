@@ -23,14 +23,18 @@ This is a simple Todo application built with Python's FastAPI framework. It incl
 
 1. Clone the repository:
 
-    ```bash
+    ```
    git clone https://github.com/Ajay2521/ToDo-App.git
    cd ToDo-App/simple-todo-api
     ```
 
 2. To run the FastAPI application:
 
-    ```bash
+    ```
+    python run main.py
+    ```
+    
+    ```
     uvicorn main:app --reload
     ```
 
@@ -53,7 +57,7 @@ This is a simple Todo application built with Python's FastAPI framework. It incl
 FastTrack Todo uses Swagger UI for API documentation. Access it at:
 
 ```
-Swagger UI: http://127.0.0.1:5000/docs
+Swagger UI: http://127.0.0.1:8000/docs
 
-ReDoc: http://127.0.0.1:5000/redoc
+ReDoc: http://127.0.0.1:8000/redoc
 ```
