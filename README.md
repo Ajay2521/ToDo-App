@@ -177,4 +177,10 @@ Creates an HTML report of the coverage data. Open `htmlcov/index.html` in a web 
 
 [UI.webm](https://github.com/user-attachments/assets/c4b46576-faa3-464b-ada6-997eb4a676c1)
 
+#### Containerized Application
+[Dockerized_app](https://github.com/user-attachments/assets/8b2b04bf-06e0-42d4-83dc-16f08051d407)
+
+#### Kubernetes deployment
+
+[Deployed_in_k8s.webm](https://github.com/user-attachments/assets/fbeceec4-77bf-4194-8ae6-0aaf256b4ee5)
 
